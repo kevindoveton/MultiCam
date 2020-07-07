@@ -2,7 +2,7 @@
 MultiCam is a virtual camera that combines the physical web cameras on your system, it then 
 uses face detection to switch to the camera that you are looking at.
 
-Based on the great example from [seanchas116](https://github.com/seanchas116/SimpleDALPlugin).
+Based on the great examples from [seanchas116](https://github.com/seanchas116/SimpleDALPlugin) and [johnboiles](https://github.com/johnboiles/coremediaio-dal-minimal-example).
 
 ## How to run
 
